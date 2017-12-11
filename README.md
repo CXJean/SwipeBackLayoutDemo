@@ -52,9 +52,12 @@ public class DemoActivity extends SwipeBackActivity {
 
 更多相似的控件:
 SwipeBack:https://github.com/liuguangqiang/SwipeBack
+
 向右滑动关闭界面（仿iOS）SlidingClose:https://github.com/wangchenyan/SlidingClose#slidingclose
+
 SwipeBackLayout:https://github.com/gongwen/SwipeBackLayout
 
 参考:
 Android 使用SwipeBackLayout实现滑动返回上一级页面——实战来袭
+
 android设置Activity背景色为透明的3种方
